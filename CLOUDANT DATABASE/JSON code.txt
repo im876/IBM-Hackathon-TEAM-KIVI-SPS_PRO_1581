@@ -1,0 +1,12 @@
+Comments:
+#Simple JSON file that stores a information of a individual and his position with variables name and position
+
+
+{
+  "_id": "c5afc939cde8218e03ce3cb4836637be",
+  "_rev": "1-33551c5851ccba5e079e74b5ce3358e7",
+  "Team Kivi": {
+    "name": "Ishan Srivastava",
+    "position": "Database Manager"
+  }
+}
